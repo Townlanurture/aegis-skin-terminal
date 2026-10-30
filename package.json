@@ -2,7 +2,7 @@
   "name": "aegis-skin-terminal",
   "version": "1.12",
   "private": true,
-  "description": "SkinEdge Terminal is a local-first CS2 trading workspace: fee-aware spread scanner, vault access and",
+  "description": "Aegis Skin Terminal: local-first CS2 workspace \u2014 fee-aware spread scanner, vault access and offline Steam Guard codes on device.",
   "type": "module",
   "scripts": {
     "dev": "vite",
